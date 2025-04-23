@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\Desktop\\Projects\\GameEnemyTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B470162F-2394-4ED9-AA9C-646A68DC35EE}|GameEnemyTest.csproj|c:\\mac\\home\\documents\\desktop\\projects\\gameenemytest\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B470162F-2394-4ED9-AA9C-646A68DC35EE}|GameEnemyTest.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B470162F-2394-4ED9-AA9C-646A68DC35EE}|GameEnemyTest.csproj|c:\\mac\\home\\documents\\desktop\\projects\\gameenemytest\\content\\font.spritefont||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B470162F-2394-4ED9-AA9C-646A68DC35EE}|GameEnemyTest.csproj|solutionrelative:content\\font.spritefont||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B470162F-2394-4ED9-AA9C-646A68DC35EE}|GameEnemyTest.csproj|c:\\mac\\home\\documents\\desktop\\projects\\gameenemytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B470162F-2394-4ED9-AA9C-646A68DC35EE}|GameEnemyTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B470162F-2394-4ED9-AA9C-646A68DC35EE}|GameEnemyTest.csproj|c:\\mac\\home\\documents\\desktop\\projects\\gameenemytest\\core\\gamelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B470162F-2394-4ED9-AA9C-646A68DC35EE}|GameEnemyTest.csproj|solutionrelative:core\\gamelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B470162F-2394-4ED9-AA9C-646A68DC35EE}|GameEnemyTest.csproj|c:\\mac\\home\\documents\\desktop\\projects\\gameenemytest\\core\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B470162F-2394-4ED9-AA9C-646A68DC35EE}|GameEnemyTest.csproj|solutionrelative:core\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B470162F-2394-4ED9-AA9C-646A68DC35EE}|GameEnemyTest.csproj|c:\\mac\\home\\documents\\desktop\\projects\\gameenemytest\\core\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B470162F-2394-4ED9-AA9C-646A68DC35EE}|GameEnemyTest.csproj|solutionrelative:core\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B470162F-2394-4ED9-AA9C-646A68DC35EE}|GameEnemyTest.csproj|c:\\mac\\home\\documents\\desktop\\projects\\gameenemytest\\core\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B470162F-2394-4ED9-AA9C-646A68DC35EE}|GameEnemyTest.csproj|solutionrelative:core\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B470162F-2394-4ED9-AA9C-646A68DC35EE}|GameEnemyTest.csproj|c:\\mac\\home\\documents\\desktop\\projects\\gameenemytest\\core\\wavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B470162F-2394-4ED9-AA9C-646A68DC35EE}|GameEnemyTest.csproj|solutionrelative:core\\wavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 311,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\Desktop\\Projects\\GameEnemyTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\Desktop\\Projects\\GameEnemyTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:15:54.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "font.spritefont",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\Desktop\\Projects\\GameEnemyTest\\Content\\font.spritefont",
+              "RelativeDocumentMoniker": "Content\\font.spritefont",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\Desktop\\Projects\\GameEnemyTest\\Content\\font.spritefont",
+              "RelativeToolTip": "Content\\font.spritefont",
+              "ViewState": "AgIAAA0AAAAAAgAAAAABwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-23T06:45:53.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameLog.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\Desktop\\Projects\\GameEnemyTest\\Core\\GameLog.cs",
+              "RelativeDocumentMoniker": "Core\\GameLog.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\Desktop\\Projects\\GameEnemyTest\\Core\\GameLog.cs",
+              "RelativeToolTip": "Core\\GameLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T03:45:14.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\Desktop\\Projects\\GameEnemyTest\\Core\\Map.cs",
+              "RelativeDocumentMoniker": "Core\\Map.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\Desktop\\Projects\\GameEnemyTest\\Core\\Map.cs",
+              "RelativeToolTip": "Core\\Map.cs",
+              "ViewState": "AgIAADYAAAAAdGZmZmbWv0QAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T03:44:28.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\Desktop\\Projects\\GameEnemyTest\\Core\\Player.cs",
+              "RelativeDocumentMoniker": "Core\\Player.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\Desktop\\Projects\\GameEnemyTest\\Core\\Player.cs",
+              "RelativeToolTip": "Core\\Player.cs",
+              "ViewState": "AgIAAIsAAACwzMzMzEwVwJEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T03:43:52.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\Desktop\\Projects\\GameEnemyTest\\Core\\Enemy.cs",
+              "RelativeDocumentMoniker": "Core\\Enemy.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\Desktop\\Projects\\GameEnemyTest\\Core\\Enemy.cs",
+              "RelativeToolTip": "Core\\Enemy.cs",
+              "ViewState": "AgIAAAoAAAAgMzMzM1M/wCQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T03:44:57.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WaveManager.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\Desktop\\Projects\\GameEnemyTest\\Core\\WaveManager.cs",
+              "RelativeDocumentMoniker": "Core\\WaveManager.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\Desktop\\Projects\\GameEnemyTest\\Core\\WaveManager.cs",
+              "RelativeToolTip": "Core\\WaveManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:03:19.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\Desktop\\Projects\\GameEnemyTest\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\Desktop\\Projects\\GameEnemyTest\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AgIAAHEAAAAA0MvMzMzgv3wAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T03:48:47.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
